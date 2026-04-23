@@ -59,3 +59,5 @@ LinkedIn: https://www.linkedin.com/in/monisha-c-b36ab6295/
 # smartfinanceai
 Built a MERN-based finance tracker with AI integration to analyze spending patterns and deliver intelligent budgeting suggestions.
 >>>>>>> e014c55d9376660da283fa250edd6a99c9a681d1
+
+This is my First PR
